@@ -3,3 +3,9 @@ COMIDAS FAVORITAS
 Sushi
 Tacos
 Pizza
+
+PELICULAS FAVORITAS
+
+Interstellar
+Oppenheimer
+The Dark Knight
